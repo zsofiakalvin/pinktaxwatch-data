@@ -15,6 +15,8 @@ PinkTaxWatch is an independent, bilingual (Hungarian–English) open price obser
 - [Key findings](#key-findings)
 - [Data files](#data-files)
 - [European menstrual basket](#european-menstrual-basket)
+- [VAT findings](#vat-findings)
+- [Best practices: policy precedents](#best-practices-policy-precedents)
 - [Hungary deep-dive](#hungary-deep-dive)
 - [Anonymisation](#anonymisation)
 - [Known limitations](#known-limitations)
@@ -96,6 +98,44 @@ Income (Eurostat `earn_nt_net`, single worker, family case A1, annual ÷ 12) is 
 
 ---
 
+## VAT findings
+
+| VAT rate on menstrual products | Markets |
+|---|---|
+| **0%** | United Kingdom, Ireland, Belgium (since 1 April 2024), Austria (since 1 January 2026) |
+| **7–12%** | Germany 7%, Netherlands 9%, Czech Republic 12% |
+| **25–27%** | Denmark 25%, **Hungary 27%**, the highest rate in the EU |
+
+What the data shows:
+
+- **A zero rate alone does not guarantee the cheapest basket.** Austria (0% VAT) and Hungary (27% VAT) have the same own-brand basket price, €4.38. Shelf prices also depend on retailer pricing, market structure and income levels.
+- **Hungary carries the heaviest tax load in the dataset.** At 27%, roughly a fifth of the shelf price is VAT.
+- **VAT cuts do reach the shelf.** Published research on menstrual product tax cuts finds that the cuts were passed through to consumer prices (Frey & Haucap 2024 on Germany; EPRS 2025). Gendered price premiums can offset part of the benefit (ifo Institute 2024). The open question is who benefits, not whether the cut arrives.
+
+VAT rates come from the European Commission's TEDB and are audited against primary national sources.
+
+---
+
+## Best practices: policy precedents
+
+Five European jurisdictions that have changed what menstrual products cost, through VAT reform, free provision, or both. These are reference points from the evidence base, not policy recommendations.
+
+| Jurisdiction | Measure | What changed |
+|---|---|---|
+| 🏴 Scotland | Free universal provision | The Period Products (Free Provision) (Scotland) Act 2021, in force since 15 August 2022, created the world's first statutory duty to provide free menstrual products in schools, colleges, universities and public buildings. |
+| 🇫🇷 France | Free school & university provision | Free menstrual products rolled out nationally in universities, secondary schools and prisons from 2021. |
+| 🇬🇧 United Kingdom | Zero-rated VAT | The 5% reduced rate was abolished and replaced by 0% in 2021. |
+| 🇧🇪 Belgium | Zero-rated VAT | The 6% reduced rate was cut to 0% on 1 April 2024. |
+| 🇦🇹 Austria | Zero-rated VAT | Reduced to 10% in 2021, then zero-rated on 1 January 2026 under the Budget Accompanying Act 2025. |
+
+Three levers move the basket price:
+
+1. **Zero-rate VAT.** Reclassify menstrual products as essential goods. This lowers the statutory tax, though the shelf price also depends on retail pricing.
+2. **Free public provision.** Provision in schools, public buildings and healthcare settings removes the cost from the household budget for the groups most affected by price.
+3. **Cap the standard rate.** Where a zero rate is not yet politically possible, a reduced rate still lowers the shelf price, and each percentage point compounds over a 39-year menstrual lifespan.
+
+---
+
 ## Hungary deep-dive
 
 *"A női lét ára Magyarországon"*: measurable extra costs for women in Hungary. All prices are in HUF and were collected on 2026-06-10.
@@ -173,6 +213,9 @@ We publish these openly rather than smoothing them over.
 | European Commission TEDB | VAT rates on menstrual products |
 | Eurostat `earn_nt_net` | Net earnings reference (single worker, case A1) |
 | European Central Bank | EUR reference exchange rates |
+| Frey & Haucap (2024), *International Tax and Public Finance* 31(1), [doi:10.1007/s10797-023-09813-w](https://doi.org/10.1007/s10797-023-09813-w) | VAT pass-through on menstrual products |
+| ifo Institute (2024), [press release](https://www.ifo.de/en/press-release/2024-08-14/price-premiums-cancel-out-tax-cut-germany-feminine-hygiene-products) | Price premiums and the German VAT cut |
+| EPRS, Baert (2025), [VAT policy and menstrual poverty in the EU](https://www.europarl.europa.eu/RegData/etudes/ATAG/2025/779173/EPRS_ATA(2025)779173_EN.pdf) | EU VAT policy overview |
 
 ---
 
