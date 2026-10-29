@@ -1,0 +1,72 @@
+service_id,provider,city_region,price_type,service,price_huf,basket_complete,source_url,collected_at,confidence
+bud-a-basket,Doktor24,Budapest,magan,Nőgyógyászati szakvizsgálat + Artemis 14 csomag (citológia és HPV),52400,true,https://doktor24.hu,2026-06-10,clean
+bud-b-basket,Budapest Medical Orvosközpont,Budapest,magan,Összeállított alapkosár (alapvizsgálat+kismedencei UH + konvencionális citológia + HPV28 tipizálás),58000,true,https://budapestmedical.hu/arak/,2026-06-10,clean
+bud-c-basket,Affidea,Budapest,magan,Komplex szűrés csomag (vizsgálat+UH+citológia) + hrHPV,61900,true,https://www.affidea.hu/privat-arlista/,2026-06-10,substitute
+bud-d-partial,Duna Medical Center,Budapest,magan,Részleges kosár (szakvizsgálat hüvelyi UH-val + konvencionális citológia; HPV tételesen nem elérhető),44450,false,https://dunamedicalcenter.org/szolgaltatasok/vizsgalatok/szakrendelesek/nogyogyaszat,2026-06-10,substitute
+biz-bud-partial,Medicover / Medicare hálózat,Budapest,biztositas-alapu,Részleges kosár (szakvizsgálat + HPV15 alapcsomag; citológia a látott adatban nem szerepelt),49600,false,https://medicare-group.hu,2026-06-10,substitute
+videk-a-basket,TiszaMedical (Szolnok),videk,magan,Nőgyógyászati szakvizsgálat + rákszűrés (citológia) + HPV tipizálás,45000,true,https://tiszamedical.hu,2026-06-10,clean
+videk-b-basket,Elite Clinic (Debrecen),videk,magan,Nőgyógyászati vizsgálat tradicionális citológiával és UH-val + HPV mintavétel (HPV labor felül),50000,true,https://www.eliteclinic.hu/arak/,2026-06-10,substitute
+videk-c-partial,Rába Medical Center / Unimedical (Győr),videk,magan,Nőgyógyászati vizsgálat UH- és citológiai vizsgálattal (orvostól függő sáv 35000-62000; HPV nélkül),35000,false,https://rabamedicalcenter.mymedio.hu,2026-06-10,substitute
+biz-videk-partial,Medicover / Medicare hálózat,videk,biztositas-alapu,Részleges kosár (szakvizsgálat + citológia; HPV nélkül; egy hálózat több telephelyen 25000-30000),25000,false,https://medicare-group.hu,2026-06-10,substitute
+bud-b-citologia,Budapest Medical Orvosközpont,Budapest,magan,Konvencionális méhnyak citológia,6000,false,https://budapestmedical.hu/arak/,2026-06-10,clean
+bud-b-citologia-lbc,Budapest Medical Orvosközpont,Budapest,magan,Folyadékalapú citológia,12000,false,https://budapestmedical.hu/arak/,2026-06-10,clean
+bud-b-hpv,Budapest Medical Orvosközpont,Budapest,magan,HPV28 tipizálás,19000,false,https://budapestmedical.hu/arak/,2026-06-10,clean
+bud-d-citologia,Duna Medical Center,Budapest,magan,Konvencionális méhnyak kenet (citológia),7450,false,https://dunamedicalcenter.org/szolgaltatasok/vizsgalatok/szakrendelesek/nogyogyaszat,2026-06-10,substitute
+biz-bud-hpv15,Medicover / Medicare hálózat,Budapest,biztositas-alapu,HPV PCR 15 típus alapcsomag,13700,false,https://medicare-group.hu,2026-06-10,clean
+biz-bud-hpv29,Medicover / Medicare hálózat,Budapest,biztositas-alapu,HPV PCR 29 típus prémium,20700,false,https://medicare-group.hu,2026-06-10,clean
+videk-b-hpv,Elite Clinic (Debrecen),videk,magan,HPV mintavétel és genotipizálás (labor felül),15000,false,https://www.eliteclinic.hu/arak/,2026-06-10,substitute
+bud-a-receptiras,Doktor24,Budapest,magan,Receptírás,5000,false,https://doktor24.hu,2026-06-10,clean
+bud-b-receptiras,Budapest Medical Orvosközpont,Budapest,magan,eRecept (max 3 havi adag),4500,false,https://budapestmedical.hu/arak/,2026-06-10,clean
+bud-d-receptiras,Duna Medical Center,Budapest,magan,Receptírás (konzultáción kívül),7000,false,https://dunamedicalcenter.org/szolgaltatasok/vizsgalatok/szakrendelesek/nogyogyaszat,2026-06-10,substitute
+biz-videk-receptiras,Medicover / Medicare hálózat,videk,biztositas-alapu,Receptírás,6500,false,https://medicare-group.hu,2026-06-10,clean
+bud-e-vizsgalat,Dr. Rose Magánkórház,Budapest,magan,Nőgyógyászati szakvizsgálat (UH külön; citológia külön),42000,false,https://drrose.hu/araink,2026-06-11,clean
+bud-e-citologia,Dr. Rose Magánkórház,Budapest,magan,Citológia (konvencionális; labor benne),10000,false,https://drrose.hu/araink,2026-06-11,clean
+bud-e-citologia-lbc,Dr. Rose Magánkórház,Budapest,magan,Folyadékalapú citológia LBC (+CINtec Plus; labor benne),15000,false,https://drrose.hu/araink,2026-06-11,clean
+bud-e-hpv,Dr. Rose Magánkórház,Budapest,magan,HPV14 PCR vizsgálat (teljes ár: minta+labor benne),25000,false,https://drrose.hu/araink,2026-06-11,clean
+bud-e-lbc-hpv-csomag,Dr. Rose Magánkórház,Budapest,magan,LBC (+CINtec Plus) + HPV14 teszt (csomag; labor benne),40000,false,https://drrose.hu/araink,2026-06-11,clean
+bud-e-basket,Dr. Rose Magánkórház,Budapest,magan,Összeállított alapkosár (vizsgálat+konv.citológia+HPV14),77000,true,https://drrose.hu/araink,2026-06-11,clean
+bud-f-vizsgalat,Budai Egészségközpont (BHC),Budapest,magan,Nőgyógyászati szakorvosi vizsgálat (UH+citológia szakmailag indokolt esetén benne; szándék szerint benne),43000,false,https://bhc.hu/arlista/szakrendelesek/nogyogyaszat,2026-06-11,clean
+bud-f-hpv,Budai Egészségközpont (BHC),Budapest,magan,HPV14 teszt (labor; +6000 Ft mintavételi díj felül),15000,false,https://bhc.hu/arlista/laboratoriumi-vizsgalatok/labor-arlista,2026-06-11,clean
+bud-f-mintavetel,Budai Egészségközpont (BHC),Budapest,magan,Labor mintavételi és kezelési díj,6000,false,https://bhc.hu/arlista/laboratoriumi-vizsgalatok/labor-arlista,2026-06-11,clean
+bud-f-basket,Budai Egészségközpont (BHC),Budapest,magan,Összeállított alapkosár (vizsgálat [UH+cito benne]+HPV14+mintavétel),64000,true,https://bhc.hu/arlista/szakrendelesek/nogyogyaszat,2026-06-11,clean
+bud-g-vizsgalat,Budai Magánorvosi Centrum,Budapest,magan,Nőgyógyászati vizsgálat (UH külön; citológia nincs alapban),29000,false,https://www.budaimaganrendelo.hu/arak,2026-06-11,clean
+bud-g-komplex,Budai Magánorvosi Centrum,Budapest,magan,Komplex nőgyógyászati vizsgálat (emlő-manuális+videocolposzkóp+citológia; UH külön),35500,false,https://www.budaimaganrendelo.hu/arak,2026-06-11,clean
+bud-g-uh,Budai Magánorvosi Centrum,Budapest,magan,Hüvelyi (transzvaginális) UH önállóan,27000,false,https://www.budaimaganrendelo.hu/arak,2026-06-11,clean
+bud-h-vizsgalat,RMC Clinics,Budapest,magan,Nőgyógyászati szakorvosi vizsgálat (listaár; UH nincs tételezve; citológia nincs tételezve),39900,false,https://rmc.hu/araink,2026-06-11,substitute
+bud-i-vizsgalat,Primavera Medical Center,Budapest,magan,Általános nőgyógyászati vizsgálat (fizikális+UH vizsgálat benne; citológia külön),36000,false,https://www.primaveramed.hu/araink,2026-06-11,clean
+bud-i-citologia,Primavera Medical Center,Budapest,magan,Cytologia (labor; vizsgálati díjon felül),8000,false,https://www.primaveramed.hu/araink,2026-06-11,clean
+bud-i-hpv,Primavera Medical Center,Budapest,magan,HPV28 teszt (labor; vizsgálati díjon felül),20000,false,https://www.primaveramed.hu/araink,2026-06-11,clean
+bud-i-basket,Primavera Medical Center,Budapest,magan,Összeállított alapkosár (vizsgálat+citológia+HPV28),64000,true,https://www.primaveramed.hu/araink,2026-06-11,clean
+bud-j-vizsgalat,Istenhegyi Magánklinika,Budapest,magan,Nőgyógyászati szakorvosi vizsgálat (UH+citológia külön),38000,false,https://ihklinika.hu/arlista,2026-06-11,clean
+bud-j-uh,Istenhegyi Magánklinika,Budapest,magan,Hüvelyi (transzvaginális) UH (vizsgálaton felül),8000,false,https://ihklinika.hu/arlista,2026-06-11,clean
+bud-j-citologia,Istenhegyi Magánklinika,Budapest,magan,Citológia (konvencionális; vizsgálaton felül),6000,false,https://ihklinika.hu/arlista,2026-06-11,clean
+bud-j-artemis,Istenhegyi Magánklinika,Budapest,magan,Nőgyógyászati szűrés – ARTEMIS 14 (konv.citológia+HPV14+biomarker; labor benne; vizsgálat külön),25000,false,https://ihklinika.hu/arlista,2026-06-11,clean
+bud-j-basket,Istenhegyi Magánklinika,Budapest,magan,Összeállított alapkosár (vizsgálat+UH+ARTEMIS14 [cito+HPV14+biomarker benne]),71000,true,https://ihklinika.hu/arlista,2026-06-11,clean
+videk-d-vizsgalat,Dr. Molnár Zsuzsanna – noorvosom.hu (Debrecen),videk,magan,Nőgyógyászati vizsgálat (fizikális+videokolposzkópia+UH+konzultáció; citológia külön),45000,false,https://noorvosom.hu/szolgaltatasok/arlista,2026-06-11,clean
+videk-d-vizsgalat-citologia,Dr. Molnár Zsuzsanna – noorvosom.hu (Debrecen),videk,magan,Nőgyógyászati vizsgálat + konvencionális citológia (labor benne),50000,false,https://noorvosom.hu/szolgaltatasok/arlista,2026-06-11,clean
+videk-d-vizsgalat-lbc,Dr. Molnár Zsuzsanna – noorvosom.hu (Debrecen),videk,magan,Nőgyógyászati vizsgálat + folyadékalapú LBC (labor benne),55000,false,https://noorvosom.hu/szolgaltatasok/arlista,2026-06-11,clean
+videk-d-basket,Dr. Molnár Zsuzsanna – noorvosom.hu (Debrecen),videk,magan,Nőgyógyászati vizsgálat + rákszűrés + HPV (vizsgálat+LBC+HPV benne),60000,true,https://noorvosom.hu/szolgaltatasok/arlista,2026-06-11,clean
+videk-e-szures,Dr. Csehely Szilvia – Gynapraxis (Debrecen),videk,magan,Teljeskörű nőgyógyászati szűrővizsgálat (vizsgálat+kolposzkópia+konv.citológia+UH benne),30000,false,https://drcsehelyszilvia.hu/arlista,2026-06-11,clean
+videk-e-szures-lbc,Dr. Csehely Szilvia – Gynapraxis (Debrecen),videk,magan,Teljeskörű nőgyógyászati szűrővizsgálat (vizsgálat+kolposzkópia+LBC citológia+UH benne),35000,false,https://drcsehelyszilvia.hu/arlista,2026-06-11,clean
+videk-e-hpv,Dr. Csehely Szilvia – Gynapraxis (Debrecen),videk,magan,HPV szűrés (labor; vizsgálat árán felül),20000,false,https://drcsehelyszilvia.hu/arlista,2026-06-11,clean
+videk-e-basket,Dr. Csehely Szilvia – Gynapraxis (Debrecen),videk,magan,Összeállított alapkosár (LBC szűrővizsgálat [vizsgálat+cito+UH benne]+HPV),55000,true,https://drcsehelyszilvia.hu/arlista,2026-06-11,clean
+videk-f-vizsgalat,Dr. Demeter Miklós – Debreceni Nőgyógyász Praxis,videk,magan,Komplex nőgyógyászati szűrővizsgálat (citológia benne; UH benne; HPV nincs benne),25000,false,https://www.debreceninogyogyasz.hu/arlista/,2026-06-11,clean
+videk-f-hpv,Dr. Demeter Miklós – Debreceni Nőgyógyász Praxis,videk,magan,HPV szűrés (labor felül; mintavétel a vizsgálat keretében),15000,false,https://www.debreceninogyogyasz.hu/arlista/,2026-06-11,clean
+videk-f-basket,Dr. Demeter Miklós – Debreceni Nőgyógyász Praxis,videk,magan,Összeállított alapkosár (komplex vizsgálat [cito benne]+HPV),40000,true,https://www.debreceninogyogyasz.hu/arlista/,2026-06-11,clean
+videk-g-vizsgalat,Tisza Medical Center (Szeged),videk,magan,Nőgyógyászati szakorvosi vizsgálat ultrahanggal (UH benne; citológia külön),30000,false,https://tiszamedical.hu/nogyogyaszat,2026-06-11,clean
+videk-g-vizsgalat-citologia,Tisza Medical Center (Szeged),videk,magan,Nőgyógyászati szakorvosi vizsgálat + rákszűrés (citológia benne; UH benne),35000,false,https://tiszamedical.hu/nogyogyaszat,2026-06-11,clean
+videk-g-basket,Tisza Medical Center (Szeged),videk,magan,Nőgyógyászati szakorvosi vizsgálat + rákszűrés + HPV tipizálás (vizsgálat+cito+HPV benne),45000,true,https://tiszamedical.hu/nogyogyaszat,2026-06-11,clean
+videk-g-receptiras,Tisza Medical Center (Szeged),videk,magan,Receptírás,5000,false,https://tiszamedical.hu/nogyogyaszat,2026-06-11,clean
+videk-h-vizsgalat,Mediplus Egészségcentrum (Miskolc),videk,magan,Nőgyógyászati vizsgálat+ultrahang+citológia (UH+konv.cito benne; HPV külön),39000,false,https://medi-plus.hu/szakrendelesek/nogyogyaszat/,2026-06-11,clean
+videk-h-hpv,Mediplus Egészségcentrum (Miskolc),videk,magan,HR HPV szűrés (labor; vizsgálati díjon felül),12000,false,https://medi-plus.hu/szakrendelesek/nogyogyaszat/,2026-06-11,clean
+videk-h-basket,Mediplus Egészségcentrum (Miskolc),videk,magan,Összeállított alapkosár (vizsgálat+UH+citológia+HR HPV),51000,true,https://medi-plus.hu/szakrendelesek/nogyogyaszat/,2026-06-11,clean
+videk-h-receptiras,Mediplus Egészségcentrum (Miskolc),videk,magan,Receptírás,3000,false,https://medi-plus.hu/szakrendelesek/nogyogyaszat/,2026-06-11,clean
+videk-i-vizsgalat,Dr. Nagy Gréta (Nyíregyháza),videk,magan,Nőgyógyászati szakorvosi vizsgálat ultrahanggal + citológia (UH+konv.cito benne),28000,false,https://drnagygreta.hu/,2026-06-11,clean
+videk-i-hpv,Dr. Nagy Gréta (Nyíregyháza),videk,magan,HPV tipizálás (labor; vizsgálaton felül),27000,false,https://drnagygreta.hu/,2026-06-11,clean
+videk-i-basket,Dr. Nagy Gréta (Nyíregyháza),videk,magan,Összeállított alapkosár (vizsgálat+UH+citológia+HPV tipizálás),55000,true,https://drnagygreta.hu/,2026-06-11,clean
+videk-j-vizsgalat,Virág Egészségközpont (Székesfehérvár),videk,magan,Nőgyógyászati vizsgálat + UH + cytológia (UH+konv.cito benne; HPV külön),25000,false,https://viragrendelo.hu/arak,2026-06-11,clean
+videk-j-hpv14,Virág Egészségközpont (Székesfehérvár),videk,magan,HPV14 teszt (labor; vizsgálaton felül),10000,false,https://viragrendelo.hu/arak,2026-06-11,clean
+videk-j-hpv28,Virág Egészségközpont (Székesfehérvár),videk,magan,HPV28 teszt (labor; vizsgálaton felül),15000,false,https://viragrendelo.hu/arak,2026-06-11,clean
+videk-j-basket,Virág Egészségközpont (Székesfehérvár),videk,magan,Összeállított alapkosár (vizsgálat+UH+citológia+HPV14),35000,true,https://viragrendelo.hu/arak,2026-06-11,clean
+biz-videk-pecs-vizsgalat,Medicare Klinika Pécs,videk,biztositas-alapu,Nőgyógyászati szakorvosi vizsgálat + cytológia (UH nincs; HPV nincs; biztosítás/TAJ-alapú ár),30000,false,https://medicare-group.hu/arlista/arlista-klinika-pecs/,2026-06-11,clean
+biz-videk-szfvar-vizsgalat,Medicare Klinika Székesfehérvár,videk,biztositas-alapu,Nőgyógyászati szakorvosi vizsgálat + cytológia (UH nincs; HPV nincs; biztosítás/TAJ-alapú),25000,false,https://medicare-group.hu/arlista/arlista-klinika-szekesfehervar/,2026-06-11,clean

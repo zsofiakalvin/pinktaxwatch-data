@@ -1,0 +1,156 @@
+[
+  {
+    "country": "UK",
+    "country_name": "United Kingdom",
+    "observation_count": 6,
+    "retailer_count": 1,
+    "retailers": [
+      "UK-GR1"
+    ],
+    "own_brand_basket_eur": 2.21,
+    "global_brand_basket_eur": null,
+    "affordability_floor_eur": 2.21,
+    "cheaper_basket": "own_brand",
+    "confidence": "Medium",
+    "current_vat": 0,
+    "lifetime_cost_eur": 1033,
+    "rank": 1
+  },
+  {
+    "country": "IE",
+    "country_name": "Ireland",
+    "observation_count": 6,
+    "retailer_count": 1,
+    "retailers": [
+      "IE-GR1"
+    ],
+    "own_brand_basket_eur": 2.65,
+    "global_brand_basket_eur": null,
+    "affordability_floor_eur": 2.65,
+    "cheaper_basket": "own_brand",
+    "confidence": "Medium",
+    "current_vat": 0,
+    "lifetime_cost_eur": 1239,
+    "rank": 2
+  },
+  {
+    "country": "BE",
+    "country_name": "Belgium",
+    "observation_count": 6,
+    "retailer_count": 1,
+    "retailers": [
+      "BE-DR1"
+    ],
+    "own_brand_basket_eur": 3.73,
+    "global_brand_basket_eur": null,
+    "affordability_floor_eur": 3.73,
+    "cheaper_basket": "own_brand",
+    "confidence": "Medium",
+    "current_vat": 0,
+    "lifetime_cost_eur": 1743,
+    "rank": 3
+  },
+  {
+    "country": "DE",
+    "country_name": "Germany",
+    "observation_count": 14,
+    "retailer_count": 2,
+    "retailers": [
+      "DE-DR1",
+      "DE-DR2"
+    ],
+    "own_brand_basket_eur": 3.88,
+    "global_brand_basket_eur": null,
+    "affordability_floor_eur": 3.88,
+    "cheaper_basket": "own_brand",
+    "confidence": "High",
+    "current_vat": 0.07,
+    "lifetime_cost_eur": 1814,
+    "rank": 4
+  },
+  {
+    "country": "AT",
+    "country_name": "Austria",
+    "observation_count": 6,
+    "retailer_count": 1,
+    "retailers": [
+      "AT-DR1"
+    ],
+    "own_brand_basket_eur": 4.38,
+    "global_brand_basket_eur": null,
+    "affordability_floor_eur": 4.38,
+    "cheaper_basket": "own_brand",
+    "confidence": "Medium",
+    "current_vat": 0,
+    "lifetime_cost_eur": 2048,
+    "rank": 5
+  },
+  {
+    "country": "HU",
+    "country_name": "Hungary",
+    "observation_count": 5,
+    "retailer_count": 1,
+    "retailers": [
+      "HU-DR1"
+    ],
+    "own_brand_basket_eur": 4.38,
+    "global_brand_basket_eur": null,
+    "affordability_floor_eur": 4.38,
+    "cheaper_basket": "own_brand",
+    "confidence": "Medium",
+    "current_vat": 0.27,
+    "lifetime_cost_eur": 2050,
+    "rank": 6
+  },
+  {
+    "country": "CZ",
+    "country_name": "Czech Republic",
+    "observation_count": 6,
+    "retailer_count": 1,
+    "retailers": [
+      "CZ-DR1"
+    ],
+    "own_brand_basket_eur": 4.4,
+    "global_brand_basket_eur": null,
+    "affordability_floor_eur": 4.4,
+    "cheaper_basket": "own_brand",
+    "confidence": "Medium",
+    "current_vat": 0.12,
+    "lifetime_cost_eur": 2058,
+    "rank": 7
+  },
+  {
+    "country": "NL",
+    "country_name": "Netherlands",
+    "observation_count": 7,
+    "retailer_count": 1,
+    "retailers": [
+      "NL-DR1"
+    ],
+    "own_brand_basket_eur": 4.72,
+    "global_brand_basket_eur": null,
+    "affordability_floor_eur": 4.72,
+    "cheaper_basket": "own_brand",
+    "confidence": "Medium",
+    "current_vat": 0.09,
+    "lifetime_cost_eur": 2211,
+    "rank": 8
+  },
+  {
+    "country": "DK",
+    "country_name": "Denmark",
+    "observation_count": 4,
+    "retailer_count": 1,
+    "retailers": [
+      "DK-DR1"
+    ],
+    "own_brand_basket_eur": null,
+    "global_brand_basket_eur": 9.36,
+    "affordability_floor_eur": 9.36,
+    "cheaper_basket": "global_brand",
+    "confidence": "Medium",
+    "current_vat": 0.25,
+    "lifetime_cost_eur": 4379,
+    "rank": 9
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "snapshot_date": "2026-06",
+  "period_monthly_basket_huf": null,
+  "period_pct_of_net_min_wage": null,
+  "average_pinktax_premium_pct": 0,
+  "contraception_annual_range_huf": {
+    "low": 37000,
+    "high": 61000
+  },
+  "basic_gynaecology_basket_huf": {
+    "low": 52400,
+    "high": 77000,
+    "scope": "Budapest, tiszta magán"
+  },
+  "net_min_wage_huf_2026": 214662,
+  "sources_count": 35,
+  "confidence": "low"
+}

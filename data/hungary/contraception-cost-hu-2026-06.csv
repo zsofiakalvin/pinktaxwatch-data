@@ -1,0 +1,30 @@
+item_id,method,source_code,brand,pack_or_unit,price_huf,unit_price_huf,monthly_cost_huf,annual_cost_huf,prescription_required,collected_at,confidence
+pill-rigevidon,pill,Patika A,Rigevidon 150/30 bevont tabletta,3x21 tabl,8556,,2852,37076,true,2026-06-10,clean
+pill-marvelon,pill,Patika A,Marvelon tabletta,3x21 tabl,10136,,3379,43927,true,2026-06-10,clean
+pill-milligest,pill,Patika A,Milligest bevont tabletta,3x21 tabl,11316,,3772,49036,true,2026-06-10,clean
+pill-gracial,pill,Patika A,Gracial tabletta,3x(7+15) tabl,9378,,3126,40638,true,2026-06-10,clean
+pill-cerazette,pill,Patika A,Cerazette 0.075mg filmtabletta,3x28 tabl,11273,,3758,48854,true,2026-06-10,clean
+pill-azalia,pill,Patika A,Azalia 75mcg filmtabletta,3x28 tabl,14145,,4715,61295,true,2026-06-10,clean
+pill-rigevidon-b,pill,Patika B,Rigevidon 150/30 bevont tabletta,3x21 tabl,8556,,2852,37076,true,2026-06-10,substitute
+pill-cerazette-b,pill,Patika B,Cerazette 0.075mg filmtabletta,3x28 tabl,11273,,3758,48854,true,2026-06-10,substitute
+ec-escapelle,emergency,Patika A,Escapelle 1.5mg tabletta,1x tabl,9125,9125,,,true,2026-06-10,clean
+ec-ellaone,emergency,Patika A,ellaOne 30mg filmtabletta (hiánycikk 2026-06),1x tabl,,,,,true,2026-06-10,substitute
+condom-durex-orig-a,condom,Drogéria A,Durex Originals,12 db,3999,333.25,,,false,2026-06-10,clean
+condom-durex-extrasafe-a,condom,Drogéria A,Durex Extra Safe,12 db,3999,333.25,,,false,2026-06-10,clean
+condom-masculan-anat-a,condom,Drogéria A,Masculan anatómiailag formázott,10 db,1749,174.90,,,false,2026-06-10,clean
+condom-skyn-elite-a,condom,Drogéria A,SKYN Elite latexmentes,10 db,4999,499.90,,,false,2026-06-10,substitute
+condom-durex-orig-b,condom,Drogéria B,Durex Originals,12 db,3299,275.00,,,false,2026-06-10,clean
+condom-preventivo-king-b,condom,Drogéria B,Preventivo King Size,24 db,2309,96.00,,,false,2026-06-10,clean
+condom-preventivo-sens-b,condom,Drogéria B,Preventivo Sensitive,12 db,1579,132.00,,,false,2026-06-10,clean
+condom-masculan-sens-b,condom,Drogéria B,Masculan Sensitive 1,10 db,1839,184.00,,,false,2026-06-10,clean
+iud-mirena-device,iud-hormonal,Patika A,Mirena méhen belüli rendszer,device 1x,69800,,,,true,2026-06-10,clean
+iud-copper-eurogine-device,iud-copper,Patika C,Eurogine T 380 Cu spirál (hormonmentes),device 1x,10990,,,,false,2026-06-10,clean
+iud-copper-goldt-device,iud-copper,Patika C,Gold T hormonmentes spirál,device 1x,29890,,,,false,2026-06-10,clean
+iud-insert-a,iud-hormonal,Klinika A,Spirál felhelyezés (eszköz nélkül),insertion,20000,,,,false,2026-06-10,clean
+iud-insert-b,iud-hormonal,Klinika B,Spirál felhelyezés/csere kontroll UH-val (eszköz nélkül),insertion,38000,,,,false,2026-06-10,clean
+iud-insert-c,iud-hormonal,Klinika C,Spirál felhelyezés/eltávolítás (eszköz nélkül),insertion,25000,,,,false,2026-06-10,clean
+iud-insert-d,iud-hormonal,Klinika D,Spirál felhelyezés (eszköz nélkül),insertion,40000,,,,false,2026-06-10,clean
+iud-levosert-allin-d,iud-hormonal,Klinika D,Levosert hormonális spirál eszközzel + felhelyezéssel,device+insertion,95000,,,,true,2026-06-10,clean
+iud-insert-vb,iud-hormonal,Vidék B,IUS Mirena felhelyezés vagy eltávolítás (eszköz nélkül),insertion,30000,,,,false,2026-06-10,clean
+iud-insert-ba,iud-hormonal,Budapest A,Spirál felhelyezése szakvizsgálattal (eszköz nélkül),insertion,44900,,,,false,2026-06-10,clean
+iud-insert-bd,iud-hormonal,Budapest D,IUD felhelyezés és vizsgálat (eszköz nélkül),insertion,54000,,,,false,2026-06-10,substitute

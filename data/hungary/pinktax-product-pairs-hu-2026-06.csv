@@ -1,0 +1,49 @@
+product_id,retailer_code,brand,product_name,category,gender_target,pack_size,unit,price_huf,unit_price_huf,collected_at,collector_notes,match_pair_id,confidence
+P001M,Drogéria A,Gillette,Blue3 férfi eldobható borotva 12 db,razor,M,12,db,2579,214.92,2026-06-10,mindkettő 3 pengés eldobható; eltérő csomagméret Ft/db-re normalizálva,razor-01,clean
+P001F,Drogéria A,Gillette Venus,Plus 3 női eldobható borotva 6 db,razor,F,6,db,1645,274.17,2026-06-10,mindkettő 3 pengés eldobható; eltérő csomagméret Ft/db-re normalizálva,razor-01,clean
+P002M,Drogéria A,Gillette,Blue3 férfi eldobható borotva 8 db,razor,M,8,db,2015,251.88,2026-06-10,mindkettő 3 pengés eldobható 8 db,razor-02,clean
+P002F,Drogéria A,Gillette Venus,Comfort Colours női eldobható borotva 8 db,razor,F,8,db,2029,253.63,2026-06-10,mindkettő 3 pengés eldobható 8 db,razor-02,clean
+P003M,Drogéria A,Gillette,Blue 3 eldobható borotva 6 db,razor,M,6,db,1955,325.83,2026-06-10,mindkettő 3 pengés eldobható 6 db,razor-03,clean
+P003F,Drogéria A,Gillette Venus,Dragonfruit eldobható borotva 6 db,razor,F,6,db,1679,279.83,2026-06-10,mindkettő 3 pengés eldobható 6 db,razor-03,clean
+P004M,Drogéria B,Gillette,Blue3 Plus eldobható borotva 8 db,razor,M,8,db,2608,326.00,2026-06-10,mindkettő 3 pengés eldobható; eltérő csomagméret normalizálva,razor-04,clean
+P004F,Drogéria B,Gillette Venus,eldobható borotva 6 db,razor,F,6,db,1889,315.00,2026-06-10,mindkettő 3 pengés eldobható; eltérő csomagméret normalizálva,razor-04,clean
+P005M,Drogéria B,Wilkinson Sword,Xtreme3 Sensitive férfi eldobható borotva 12 db,razor,M,12,db,3047,253.92,2026-06-10,mindkettő 3 pengés eldobható; eltérő csomagméret normalizálva,razor-05,clean
+P005F,Drogéria B,Wilkinson Sword,Xtreme3 Comfort női eldobható borotva 6 db,razor,F,6,db,1705,284.17,2026-06-10,mindkettő 3 pengés eldobható; eltérő csomagméret normalizálva,razor-05,clean
+P006M,Drogéria A,Balea MEN,Szenzitív borotvahab 300 ml,shaving,M,300,ml,365,121.67,2026-06-10,azonos márka borotvahab Ft/100ml normalizálva,shaving-01,clean
+P006F,Drogéria A,Balea,Női borotvahab érzékeny bőrre 150 ml,shaving,F,150,ml,295,196.67,2026-06-10,azonos márka borotvahab Ft/100ml normalizálva,shaving-01,clean
+P007M,Drogéria A,Gillette,Series borotvazselé Sensitive 200 ml,shaving,M,200,ml,1135,567.50,2026-06-10,"azonos márka borotvazselé 200 ml; URL nem visszakereshető, kizárásra jelölve",shaving-02,clean
+P007F,Drogéria A,Gillette Satin Care,Női borotvazselé Dry Skin 200 ml,shaving,F,200,ml,1255,627.50,2026-06-10,azonos márka borotvazselé 200 ml,shaving-02,clean
+P008M,Drogéria A,alverde MEN,Hydro borotvagél 125 ml,shaving,M,125,ml,549,439.20,2026-06-10,azonos márka borotvagél Ft/100ml normalizálva,shaving-03,clean
+P008F,Drogéria A,alverde,Női borotvagél érzékeny bőrre 150 ml,shaving,F,150,ml,469,312.67,2026-06-10,azonos márka borotvagél Ft/100ml normalizálva,shaving-03,clean
+P009M,Drogéria B,Gillette,Series Sensitive borotvazselé 200 ml,shaving,M,200,ml,1320,660.00,2026-06-10,azonos márka borotvazselé 200 ml,shaving-04,clean
+P009F,Drogéria B,Gillette Satin Care,Aloe Vera Glide borotvazselé 200 ml,shaving,F,200,ml,1413,706.50,2026-06-10,azonos márka borotvazselé 200 ml,shaving-04,clean
+P010M,Drogéria B,Isana Men,Sensitiv borotvahab 300 ml,shaving,M,300,ml,427,142.33,2026-06-10,KIZÁRVA a számításból: formátum-mismatch hab vs gél,shaving-05,substitute
+P010F,Drogéria B,Isana,Női borotválkozó gél Sensitive 200 ml,shaving,F,200,ml,504,252.00,2026-06-10,KIZÁRVA a számításból: formátum-mismatch hab vs gél,shaving-05,substitute
+P011M,Drogéria A,Rexona men,Deo spray Ocean Rush 150 ml,deodorant,M,150,ml,1439,959.33,2026-06-10,KIZÁRVA a számításból: tier-mismatch Whole Body vs standard,deo-01,substitute
+P011F,Drogéria A,Rexona,Deo spray Bright Bouquet 150 ml,deodorant,F,150,ml,899,599.33,2026-06-10,KIZÁRVA a számításból: tier-mismatch Whole Body vs standard,deo-01,substitute
+P012M,Drogéria A,NIVEA MEN,Deo spray Black White Invisible Original 200 ml,deodorant,M,200,ml,1309,654.50,2026-06-10,azonos márka deo spray 200 ml,deo-02,clean
+P012F,Drogéria A,NIVEA,Deo spray Black White Invisible Clear 200 ml,deodorant,F,200,ml,1289,644.50,2026-06-10,azonos márka deo spray 200 ml,deo-02,clean
+P013M,Drogéria A,Dove MEN+CARE,Férfi deo spray Clean Comfort 150 ml,deodorant,M,150,ml,1225,816.67,2026-06-10,"azonos márka deo spray 150 ml azonos ár; URL nem visszakereshető, kizárásra jelölve",deo-03,clean
+P013F,Drogéria A,Dove,Deo spray Original 150 ml,deodorant,F,150,ml,1225,816.67,2026-06-10,"azonos márka deo spray 150 ml azonos ár; URL nem visszakereshető, kizárásra jelölve",deo-03,clean
+P014M,Drogéria B,Rexona for Men,Cobalt deo spray 150 ml,deodorant,M,150,ml,1156,770.67,2026-06-10,azonos márka deo spray 150 ml azonos ár,deo-04,clean
+P014F,Drogéria B,Rexona,Aloe Vera deo spray 150 ml,deodorant,F,150,ml,1156,770.67,2026-06-10,azonos márka deo spray 150 ml azonos ár,deo-04,clean
+P015M,Drogéria B,Rexona Men,Advanced Protection deo spray 150 ml,deodorant,M,150,ml,1326,884.00,2026-06-10,"azonos márka Advanced Protection 150 ml; URL nem visszakereshető, kizárásra jelölve",deo-05,clean
+P015F,Drogéria B,Rexona,Advanced Protection Bright Bouquet deo spray 150 ml,deodorant,F,150,ml,1326,884.00,2026-06-10,"azonos márka Advanced Protection 150 ml; URL nem visszakereshető, kizárásra jelölve",deo-05,clean
+P016M,Drogéria A,Dove MEN+CARE,Férfi tusfürdő Clean Comfort 400 ml,showergel,M,400,ml,1609,402.25,2026-06-10,azonos márka tusfürdő 400 ml,sg-01,clean
+P016F,Drogéria A,Dove,Tusfürdő Advanced Care Deeply Nourishing 400 ml,showergel,F,400,ml,1885,471.25,2026-06-10,azonos márka tusfürdő 400 ml,sg-01,clean
+P017M,Drogéria A,NIVEA MEN,Tusfürdő Active Clean 500 ml,showergel,M,500,ml,1285,257.00,2026-06-10,azonos márka tusfürdő 500 ml,sg-02,clean
+P017F,Drogéria A,NIVEA,Tusfürdő Creme Care 500 ml,showergel,F,500,ml,1265,253.00,2026-06-10,azonos márka tusfürdő 500 ml,sg-02,clean
+P018M,Drogéria A,NIVEA MEN,Tusfürdő Sensitive 250 ml,showergel,M,250,ml,839,335.60,2026-06-10,azonos márka tusfürdő 250 ml,sg-03,clean
+P018F,Drogéria A,NIVEA,Tusfürdő Creme Soft 250 ml,showergel,F,250,ml,789,315.60,2026-06-10,azonos márka tusfürdő 250 ml,sg-03,clean
+P019M,Drogéria B,Dove MEN+CARE,Sensitive tusfürdő 400 ml,showergel,M,400,ml,1681,420.25,2026-06-10,azonos márka tusfürdő 400 ml,sg-04,clean
+P019F,Drogéria B,Dove,Advanced Care Deeply Nourishing krémtusfürdő 400 ml,showergel,F,400,ml,2240,560.00,2026-06-10,azonos márka tusfürdő 400 ml,sg-04,clean
+P020M,Drogéria B,NIVEA MEN,Total Relax tusfürdő 500 ml,showergel,M,500,ml,1716,343.20,2026-06-10,azonos márka tusfürdő 500 ml,sg-05,clean
+P020F,Drogéria B,NIVEA,Creme Soft krémtusfürdő 500 ml,showergel,F,500,ml,1603,320.60,2026-06-10,azonos márka tusfürdő 500 ml,sg-05,clean
+P021M,Drogéria A,syoss Men,Mélyápoló sampon Intense Clean 440 ml,shampoo,M,440,ml,1449,329.32,2026-06-10,azonos márka sampon 440 ml azonos ár,shampoo-01,clean
+P021F,Drogéria A,syoss,Mélyápoló sampon Intense Keratin 440 ml,shampoo,F,440,ml,1449,329.32,2026-06-10,azonos márka sampon 440 ml azonos ár,shampoo-01,clean
+P022M,Drogéria A,head&shoulders,Sampon Menthol Fresh 400 ml,shampoo,M,400,ml,2149,537.25,2026-06-10,azonos márka 400 ml azonos ár,shampoo-02,clean
+P022F,Drogéria A,head&shoulders,Sampon Deep Hydration 400 ml,shampoo,F,400,ml,2149,537.25,2026-06-10,azonos márka 400 ml azonos ár,shampoo-02,clean
+P023M,Drogéria B,Syoss Men,Intense Clean mélyápoló sampon 440 ml,shampoo,M,440,ml,1489,338.41,2026-06-10,"azonos márka 440 ml azonos ár; URL nem visszakereshető, kizárásra jelölve",shampoo-03,clean
+P023F,Drogéria B,Syoss,Intense Color mélyápoló sampon 440 ml,shampoo,F,440,ml,1489,338.41,2026-06-10,"azonos márka 440 ml azonos ár; URL nem visszakereshető, kizárásra jelölve",shampoo-03,clean
+P024M,Drogéria B,Schauma,Férfi sampon komlóval 400 ml,shampoo,M,400,ml,1187,296.75,2026-06-10,azonos márka 400 ml azonos ár,shampoo-04,clean
+P024F,Drogéria B,Schauma,7 Herbs Freshness sampon 400 ml,shampoo,F,400,ml,1187,296.75,2026-06-10,azonos márka 400 ml azonos ár,shampoo-04,clean
